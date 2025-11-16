@@ -6,11 +6,11 @@
 
 A web-based inventory management application developed in Java using Servlets, JSP, and the DAO pattern.
 
-## 🚀 About This Project
+## About This Project
 
 > This project is a dynamic, web-based inventory management application. It allows users to manage products, track suppliers, and process orders from placement to completion. It also features the ability to generate downloadable inventory reports, providing a complete solution for basic inventory needs.
 
-## ✨ Key Features
+## Key Features
 
 * **Product Management:** Add new products, delete existing ones, and update stock quantities.
 * **Supplier Management:** Maintain a complete list of suppliers, including adding and deleting supplier records.
@@ -30,14 +30,6 @@ A web-based inventory management application developed in Java using Servlets, J
 * **Database:** *[Specify your database, e.g., MySQL, PostgreSQL]*
 * **Web Server:** Apache Tomcat
 * **Design Pattern:** DAO (Data Access Object)
-
-## 📸 Screenshots
-
-*(Add screenshots of your application here to showcase your work!)*
-
-**Example:**
-`![Product Dashboard](link-to-your-screenshot.png)`
-`![New Order Form](link-to-your-screenshot.png)`
 
 ## 🏁 Getting Started
 
@@ -70,6 +62,3 @@ Follow these instructions to get a local copy up and running.
 5.  **Access the application:**
     * Open your browser and navigate to `http://localhost:8080/your-app-context-path`
 
-## 📜 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
