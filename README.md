@@ -2,7 +2,7 @@
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![DAO](https://img.shields.io/badge/Design_Pattern-DAO-blue?style=for-the-badge)
 
-# Inventory Management System
+# Depot
 
 A complete web-based inventory and order management system built using Java Servlets, JSP, and the DAO pattern. This system allows businesses to manage products, suppliers, stock levels, and orders, while also generating downloadable inventory reports.
 
